@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sc.StringCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-01-28T21:41:01" hostname="MFPHWWK005" time="0.006">
+  <properties/>
+  <testcase name="testInputWithhasMultipleDelimiters" classname="com.sc.StringCalculatorTest" time="0.003"/>
+  <testcase name="testInputWithhasIntegerValueMoreThan1000" classname="com.sc.StringCalculatorTest" time="0.0"/>
+  <testcase name="testInputWithhasMultipleDelimitersAndSpecialChars" classname="com.sc.StringCalculatorTest" time="0.0"/>
+  <testcase name="testValidateInputMethodWithStringHasSpecialChars" classname="com.sc.StringCalculatorTest" time="0.0"/>
+  <testcase name="testInputWithhasNewlineWithSpace" classname="com.sc.StringCalculatorTest" time="0.0"/>
+  <testcase name="testArrayResultWithArrayOfIntegers" classname="com.sc.StringCalculatorTest" time="0.0"/>
+  <testcase name="testInputWithhasNewlineWithOutSpace" classname="com.sc.StringCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
